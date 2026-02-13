@@ -1,0 +1,2 @@
+# Datasciencecourse
+assignments and projects
